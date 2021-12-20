@@ -11,9 +11,9 @@ MADE BY MOHD_HANEEN"""
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+
+
+CHANNEL_TXT = """https://t.me/cinemacenterofficial """
 
 <b>DEVS:</b>
 - <a https://t.me/milliebobbyupdatad </a>"""
@@ -44,7 +44,7 @@ MADE BY MOHD_HANEEN"""
 <code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
 
 <b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message)</code>"""
+<code>[ഇത് നിനക്ക് അല്ല](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
